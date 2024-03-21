@@ -17,7 +17,7 @@ Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is develo
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/dynamicdhxx/
+git clone https://github.com/dynamicdhxx/ONE
 ```
 
 2. Install dependencies:
@@ -52,4 +52,5 @@ streamlit run app.py
 
 
 Maintainer: Dhruv Bharuka
+
 Happy recruiting with Gemini Pro ATS!
